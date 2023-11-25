@@ -1,0 +1,11 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Honda,2015,600000,800000,20000,Petrol,Dealer,Manual,1
+Toyota,2017,800000,1000000,30000,Diesel,Dealer,Automatic,1
+Hyundai,2016,550000,700000,15000,Petrol,Individual,Manual,1
+Ford,2018,900000,1100000,35000,Diesel,Dealer,Automatic,2
+Maruti,2019,750000,900000,25000,Petrol,Individual,Manual,1
+BMW,2014,1200000,1500000,5000,Diesel,Dealer,Automatic,1
+Audi,2017,1500000,1800000,10000,Petrol,Individual,Manual,1
+Tata,2016,450000,600000,40000,Petrol,Dealer,Manual,1
+Mahindra,2018,650000,850000,22000,Diesel,Individual,Automatic,1
+Renault,2019,700000,950000,28000,Petrol,Dealer,Manual,1
